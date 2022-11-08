@@ -14,15 +14,18 @@
 1A. Goto > https://discord.com/developers then login, Click New Application [Like This SS](https://i.imgur.com/eTnWSKW.png) Then Name It And Click On Bot -> Create Bot.
 <br>
 1B. Download Node.js V19 For These Commands Run Correctly
-<br>
+
+<hr>
 2. After Naming The Application Youll Need The Bot ID & Token [Bot ID](https://i.imgur.com/rmG41rB.png)
 [Bot Token](https://i.imgur.com/b8bHQpj.png) Clicking On Reset Will Show You The Bot Token
-<br>
+
+<hr>
 3. Open config.json [Config.json](https://i.imgur.com/HQeXX1y.png) Fill These IN With The ID & Token
-<br>
+4. 
+<hr>
 4. Right Click -> Bash Here -> NPM Run Deploy To Register The Commands On The Bot, Then Use The Provided Start.bat [This](https://i.imgur.com/0M9Gfxq.png) This Will Read The Files IN The Folder And Attempt To Start The Bot, If All Has Gone Well It Should Load Up And Allow You To Run /ping (Please Note Commands Take Upto An Hour To Register )
 
-
+<hr>
 # If You Have Enjoyed My Bot Project Please Star It ~ Thanks For Being Interested *Tomtomvader298
 
 
